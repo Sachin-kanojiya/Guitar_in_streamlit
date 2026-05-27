@@ -1,5 +1,5 @@
 streamlit
-pygame
+pygame-ce
 opencv-python-headless
 mediapipe
 numpy
